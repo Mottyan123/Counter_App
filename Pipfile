@@ -7,6 +7,7 @@ name = "pypi"
 flet = {extras = ["all"], version = "*"}
 nuitka = "*"
 zstandard = "*"
+flet-audio = "*"
 
 [dev-packages]
 
